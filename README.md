@@ -22,8 +22,11 @@ A step-by-step guide to setting up a development environment.
 git clone https://github.com/vinaychhabra/go-weatherAPI.git
 cd go-weatherAPI
 go run main.go
+```
+
 
 2. Usage
+```bash
 To fetch weather data:
 
 GET Request: GET /city?name=Toronto
