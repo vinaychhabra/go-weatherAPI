@@ -25,7 +25,7 @@ go run main.go
 
 2. Usage
 To fetch weather data:
-```bash
+
 GET Request: GET /city?name=Toronto
 POST Request: Send a POST request to /city with a JSON body: {"name": "Toronto"}
 
